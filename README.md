@@ -1,4 +1,4 @@
-# Hi, I'm Moha
+# Hi, I'm Mohamed Bashir Ali
 
 Software developer and Computer Science student focused on modern full-stack web applications, TypeScript ecosystems, and Android optimization tools. I enjoy building structured, production-ready software with end-to-end type safety, responsive design, and robust data architecture.
 
