@@ -6,7 +6,7 @@ i"m Software developer and  focused on modern full-stack web applications, TypeS
 
 ### What I Build
 
-- **Full-Stack Web Applications** — Scalable web applications using Next.js (App Router), React, TypeScript, and Tailwind CSS.
+- **Full-Stack Web Applications** — Scalable web applications using flutter, Next.js (App Router), React, TypeScript, and Tailwind CSS.
 - **Data & Backend Architecture** — Relational database modeling with PostgreSQL, Prisma ORM, and Supabase (Auth, RLS, Storage).
 - **Interactive 3D Web Interfaces** — Client-side 3D viewports and animations using Three.js and React Three Fiber with hardware fallbacks.
 - **Android & Gaming Utilities** — Content hubs, performance guides, and deployment workflows for mobile gaming communities.
